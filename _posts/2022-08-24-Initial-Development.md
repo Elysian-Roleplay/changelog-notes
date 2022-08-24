@@ -1,14 +1,34 @@
 ---
 layout: post
-title: "Starting new Projects"
-categories: development
+title: "Initial Development"
+categories: elysian-changelog-alpha
 ---
 
-# Starting new Projects
+# Initial Development
 
-I'm thinking about making an entirely new projects replacing the current project i've been handling this time, the reason is because it feels like current projects makes me so confused about choosing the right components and also the components itself is very buggy and the devs itself isn't going to care to read the issues for some reason.
+This is our initial development progress, adding bunch of required files before we started to make the gamemodes.
 
-While i can solve it myself by contributing to the source, in fact i can't understand single thing about what he's making since the code itself feels like an alien to me, so i have no choice to think again about what should i do now, fortunately enough i have enough plan starting a entirely new projects called `Elysian Roleplay - SA:MP`.
+## [0.0.1-alpha] - 2022-08-24
 
-It have some nice features planned more than anything else, of course it's going to be basic roleplay SA:MP thingy just like others but with more simpler to play rather than focusing on making it heavy, i must think about planning for the currency, the job structure, etc for now but i think it will take entire year again before fully running. Hopefully this project is not dead like previous one since at that time i just feel confused and then my gamemode look like shit tbh.
+### Added
 
+- Add YSI-Includes as our core lib
+- Add sscanf2 for various command checker
+- Add bcrypt for password hashes
+- Adding initial simple gamemode for our bases
+
+### Changed
+
+- N/A
+
+### Fixed
+
+- N/A
+
+### Removed
+
+- N/A
+
+### Security
+
+- N/A
