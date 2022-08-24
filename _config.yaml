@@ -1,0 +1,21 @@
+title: Elysian Roleplay Changelog Notes
+author: Aiuraa
+email: none@void.site
+description: > # this means to ignore newlines until "twitter_username:"
+  A changelog sites for Elysian Roleplay, all will be displayed here.
+
+url: "https://elysian-roleplay.github.io/changelog-notes"
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+header_pages:
+  - index.md
+  - about.md
+
+footer: 'follow us on <a href="https://github.com/Elysian-Roleplay/">GitHub</a>'
+
+style: github-dimmed
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
